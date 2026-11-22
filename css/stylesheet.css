@@ -1,0 +1,22 @@
+form{
+    padding: 30px;
+    display: grid;
+    text-align: center;
+     padding: 10px;
+    background-color:#4169E1 ;
+    border-radius: 50px;
+     border: 4px solid black; 
+    margin: 30px;
+}
+
+input{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+     border: 2px solid black; 
+     border-radius: 5px;
+}
+
+.box-alignment{
+    justify-content: center;
+    display: grid;
+}
